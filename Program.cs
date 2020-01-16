@@ -8,7 +8,7 @@ namespace Visual_Studio2019_CSharpGitDemo
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("This is ISM4300!")
+            Console.WriteLine("This is ISM4300!");
         }
     }
 }
